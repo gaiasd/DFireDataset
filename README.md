@@ -20,3 +20,5 @@ recognition algorithms with more than 3000 image in which techniques of data aug
 | Number of images |
 | :-------------------: |
 |          3162         |
+
+[Download D-fire Dataset](https://www.floydhub.com/gaiasd/datasets/d-fire)
