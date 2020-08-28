@@ -58,7 +58,7 @@ Images taken from public datasets like: **Fismo Dataset, Camera HPWREN dataset, 
  
 ### FP
 
-**False positive images taken from YouTube Videos **
+**False positive images taken from YouTube Videos**
 
 *Total number of bounding boxes:* **0**  
 *Total number of occurrences of smoke:* **0**  
