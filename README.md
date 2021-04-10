@@ -1,5 +1,5 @@
 
-DFire is an image dataset of fire and smoke occurrences designed for machine learning and object detection algorithms with more than 20,000 images. In addition, all images were annotated according to the YOLO format.
+D-Fire is an image dataset of fire and smoke occurrences designed for machine learning and object detection algorithms with more than 20,000 images. In addition, all images were annotated according to the YOLO format.
 
 | Category | # Images |
 | ------------- | ------------- |
@@ -10,4 +10,5 @@ DFire is an image dataset of fire and smoke occurrences designed for machine lea
 
 Data augmentation techniques, such as mirroring and adding noise, were applied to the dataset, in order to triple the number of images.
 
-[Download DFire Dataset](https://mega.nz/folder/KkgmxApK#AnCld32ITLPXXsteUpXs5A)
+[Download D-Fire Dataset](https://mega.nz/folder/m1o0WQiJ#eTHfS1jwVKf3sUN5SHqf8Q)
+[Download videos](https://mega.nz/folder/K5RjiAbJ#3cNW8VUfE-Eex3FlhXSQOg)
