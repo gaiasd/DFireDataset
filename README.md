@@ -4,16 +4,29 @@
 
 ### About
 
-D-Fire is an image dataset of fire and smoke occurrences designed for machine learning and object detection algorithms with more than 20,000 images. In addition, all images were annotated according to the YOLO format.
+D-Fire is an image dataset of fire and smoke occurrences designed for machine learning and object detection algorithms with more than 20,000 images.
+
+<table>
+<tr><th>Number of images</th><th>Number of bounding boxes</th></tr>
+<tr><td>
 
 | Category | # Images |
 | ------------- | ------------- |
 | Only fire  | 1,164  |
-| Only smoke  | 5,867  |
-| Fire and smoke  | 4,658  |
+| Only smoke  | 5,868  |
+| Fire and smoke  | 4,657  |
 | None  | 9,838  |
 
-Data augmentation techniques, such as mirroring and adding noise, were applied to the dataset, in order to triple the number of images.
+</td><td>
+
+| Class | # Bounding boxes |
+| ------------- | ------------- |
+| Fire  | 14,691 |
+| Smoke  | 11,865  |
+
+</td></tr> </table>
+
+All images were annotated according to the YOLO format (normalized coordinates between 0 and 1).
 
 ***
 
