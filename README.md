@@ -19,10 +19,10 @@ Data augmentation techniques, such as mirroring and adding noise, were applied t
 
 ### Download
 
-* [Download D-Fire Dataset (only images and labels)](https://mega.nz/folder/m1o0WQiJ#eTHfS1jwVKf3sUN5SHqf8Q).
-* [Download some surveillance videos](https://mega.nz/folder/K5RjiAbJ#3cNW8VUfE-Eex3FlhXSQOg).
+* [Download D-Fire Dataset (only images and labels)](https://drive.google.com/drive/folders/1DWgsQLVgkkLM8m-VcugHNpD5WYDbjYp5?usp=sharing).
+* [Download some surveillance videos](https://drive.google.com/drive/folders/1P5TNDP7ZrWpIZ4v_Aav5hf3S9UII2ZKA?usp=sharing).
 * If you want more surveillance videos, please request your registration on our environmental monitoring website ["Apaga o Fogo!" (Put out the Fire!)](https://apagaofogo.eco.br/).
-* Data splitting is also available [here](https://mega.nz/folder/q95S2ATb#Bc2jtq6cGsKTWxsDA_6k5Q).
+* Data splitting is also available [here](https://drive.google.com/drive/folders/1Np_FC3MuuFJgV-z0FmZwS9YzsTKdyRGJ?usp=sharing).
 
 ### Citation
 
