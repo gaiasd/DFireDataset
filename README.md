@@ -13,16 +13,16 @@ D-Fire is an image dataset of fire and smoke occurrences designed for machine le
 | Category | # Images |
 | ------------- | ------------- |
 | Only fire  | 1,164  |
-| Only smoke  | 5,868  |
-| Fire and smoke  | 4,657  |
+| Only smoke  | 5,867  |
+| Fire and smoke  | 4,658  |
 | None  | 9,838  |
 
 </td><td>
 
 | Class | # Bounding boxes |
 | ------------- | ------------- |
-| Fire  | 14,691 |
-| Smoke  | 11,865  |
+| Fire  | 14,692 |
+| Smoke  | 11,865 |
 
 </td></tr> </table>
 
