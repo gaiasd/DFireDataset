@@ -38,7 +38,7 @@ However, we provide the yolo2pixel function that converts coordinates in YOLO fo
 
 ***
 
-## Some examples of labeled images
+## Examples
 
 <p align = "center">
 <img src="https://drive.google.com/uc?export=view&id=1TfxQUZd89zU7xYG3y0enivXk3rqI6sIj" width="auto" height="180"/>
