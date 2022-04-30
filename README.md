@@ -44,6 +44,7 @@ However, we provide the yolo2pixel function that converts coordinates in YOLO fo
 <img src="https://drive.google.com/uc?export=view&id=1TfxQUZd89zU7xYG3y0enivXk3rqI6sIj" width="auto" height="180"/>
 <img src="https://drive.google.com/uc?export=view&id=1OywHP44jNIy0uoA6O63VZPB1_Hi-sejK" width="auto" height="180"/>
 <img src="https://drive.google.com/uc?export=view&id=1mIvClp9fLnKURYrRoNab8b96FZCm3Zje" width="auto" height="180"/>
+<img src="https://drive.google.com/uc?export=view&id=1fa9p459AY0-ORUg0oNie5MMP9xZq3MfM" width="auto" height="180"/>
 </p>
 
 ## Download
