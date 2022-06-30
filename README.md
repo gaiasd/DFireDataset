@@ -54,17 +54,7 @@ However, we provide the yolo2pixel function that converts coordinates in YOLO fo
 
 ## Citation
 
-Please cite our paper in your publications if you use this dataset.
+Please cite our papers in your publications if you use this dataset.
 
-Pedro Vinícius Almeida Borges de Venâncio, Tamires Martins Rezende, Adriano Chaves Lisboa, Adriano Vilela Barbosa: <a href="https://ieeexplore.ieee.org/document/9769824"> Fire Detection based on a Two-Dimensional Convolutional Neural Network and Temporal Analysis. </a> In: IEEE Latin American Conference on Computational Intelligence (LA-CCI), 2021, Temuco, Chile.
-
-```
-@inproceedings{Venancio2021,
-title = {{Fire Detection based on a Two-Dimensional Convolutional Neural Network and Temporal Analysis}},
-author = {Pedro Vinícius A. B. de Venâncio and Tamires M. Rezende and Adriano C. Lisboa and Adriano V. Barbosa},
-booktitle = {IEEE Latin American Conference on Computational Intelligence (LA-CCI)},
-doi = {10.1109/LA-CCI48322.2021.9769824},
-pages = {1-6},
-year = {2021}
-}
-```
+- <p align="justify"><b>Pedro Vinícius Almeida Borges de Venâncio</b>, Adriano Chaves Lisboa, Adriano Vilela Barbosa: <a href="https://link.springer.com/article/10.1007/s00521-022-07467-z"> An automatic fire detection system based on deep convolutional neural networks for low-power, resource-constrained devices. </a> In: Neural Computing and Applications, 2022.</p>
+- Pedro Vinícius Almeida Borges de Venâncio, Tamires Martins Rezende, Adriano Chaves Lisboa, Adriano Vilela Barbosa: <a href="https://ieeexplore.ieee.org/document/9769824"> Fire Detection based on a Two-Dimensional Convolutional Neural Network and Temporal Analysis. </a> In: IEEE Latin American Conference on Computational Intelligence (LA-CCI), 2021, Temuco, Chile.
