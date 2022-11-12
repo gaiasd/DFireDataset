@@ -4,7 +4,7 @@
 
 ## About
 
-D-Fire is an image dataset of fire and smoke occurrences designed for machine learning and object detection algorithms with more than 20,000 images.
+D-Fire is an image dataset of fire and smoke occurrences designed for machine learning and object detection algorithms with more than 21,000 images.
 
 <div align="center">
 <table>
