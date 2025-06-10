@@ -43,7 +43,7 @@ To facilitate usage, we provide a `utils.yolo2pixel` function to convert these n
 Below are some representative samples from the D-Fire dataset showcasing different scenarios of fire and smoke detection. 
 
 <p align="center">
-    <img width="500" src="./figures/dfire_examples.png" alt="PyCCEA logo">
+    <img width="500" src="./figures/dfire_examples.png" alt="D-Fire examples">
 <p>
 
 ### :computer: Download links
