@@ -1,10 +1,10 @@
-##  D-Fire: an image dataset for fire and smoke detection
+## :fire: D-Fire: an image dataset for fire and smoke detection
 
 **Authors:** Researchers from Gaia, solutions on demand ([GAIA](https://www.gaiasd.com/))
 
-### About
+### :bulb: About
 
-D-Fire is an image dataset of fire and smoke occurrences designed for machine learning and object detection algorithms with more than 21,000 images.
+D-Fire is an image dataset of fire and smoke occurrences designed for machine learning and object detection algorithms with more than 21,000 images. The dataset summary is detailed in the table below.
 
 <div align="center">
 <table>
@@ -33,18 +33,22 @@ D-Fire is an image dataset of fire and smoke occurrences designed for machine le
 </table>
 </div>
 
-All images were annotated according to the YOLO format (normalized coordinates between 0 and 1). 
-However, we provide the yolo2pixel function that converts coordinates in YOLO format to coordinates in pixels.
+Annotations follow the YOLO format, with normalized coordinates between 0 and 1.
+To facilitate usage, we provide a `utils.yolo2pixel` function to convert these normalized coordinates into pixel coordinates.
 
 ***
 
-### Examples
+### :high_brightness: Example images
 
-<div align="center">
-    <img src="https://lh3.googleusercontent.com/pw/AL9nZEUAI1XO1nuK0XmTSxd01nma6VZkZJ5Jrnj_qIvhqe1uxziYXmTnO5GLAFEdyric37YHGLersFbnZOZ1UQ5nOX057Kgze4d8d-fdX34O9972BnUI4n4zLt8_Lw0nm03cp8qqLX-72VRUHzMf01j-8XvtYg=s721-no" width="600"</img> 
-</div>
+Below are some representative samples from the D-Fire dataset showcasing different scenarios of fire and smoke detection. 
 
-### Download
+<p align="center">
+    <img width="500" src="./figures/dfire_examples.png" alt="PyCCEA logo">
+<p>
+
+### :computer: Download links
+
+Access the D-Fire dataset, including images, annotations, and pre-split training, validation, and test sets via the following links. Additional resources such as surveillance videos and trained models are also available to support your research.
 
 * [D-Fire dataset (only images and labels)](https://1drv.ms/f/c/c0bd25b6b048b01d/EoGlv1-7_ZlGqvKdi1rulI0B0_Tho1F1sHzn_yU8uXFwoQ?e=G8MjXb).
 * [Training, validation and test sets](https://1drv.ms/f/c/c0bd25b6b048b01d/Ema8FFze8mFIlM1Hn81BUUgBSyCe3R8DpI-tN5ZLOOGu5g?e=Vgdlo4).
@@ -52,7 +56,7 @@ However, we provide the yolo2pixel function that converts coordinates in YOLO fo
 * [Some deep learning models trained with the D-Fire dataset](https://github.com/pedbrgs/Fire-Detection).
 * For more surveillance videos, request your registration on our environmental monitoring platform ["Apaga o Fogo!" (Put out the Fire!)](https://apagaofogo.eco.br/).
 
-### Citation
+### :scroll: Citation
 
 Please cite the following paper if you use our image database:
 
