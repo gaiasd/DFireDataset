@@ -1,8 +1,8 @@
-#  D-Fire: an image dataset for fire and smoke detection
+##  D-Fire: an image dataset for fire and smoke detection
 
 **Authors:** Researchers from Gaia, solutions on demand ([GAIA](https://www.gaiasd.com/))
 
-## About
+### About
 
 D-Fire is an image dataset of fire and smoke occurrences designed for machine learning and object detection algorithms with more than 21,000 images.
 
@@ -38,21 +38,21 @@ However, we provide the yolo2pixel function that converts coordinates in YOLO fo
 
 ***
 
-## Examples
+### Examples
 
 <div align="center">
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEUAI1XO1nuK0XmTSxd01nma6VZkZJ5Jrnj_qIvhqe1uxziYXmTnO5GLAFEdyric37YHGLersFbnZOZ1UQ5nOX057Kgze4d8d-fdX34O9972BnUI4n4zLt8_Lw0nm03cp8qqLX-72VRUHzMf01j-8XvtYg=s721-no" width="600"</img> 
 </div>
 
-## Download
+### Download
 
-* [D-Fire dataset (only images and labels)](https://drive.google.com/drive/folders/1DWgsQLVgkkLM8m-VcugHNpD5WYDbjYp5?usp=sharing).
-* [Training, validation and test sets](https://drive.google.com/drive/folders/1Np_FC3MuuFJgV-z0FmZwS9YzsTKdyRGJ?usp=sharing).
-* [Some surveillance videos](https://drive.google.com/drive/folders/1P5TNDP7ZrWpIZ4v_Aav5hf3S9UII2ZKA?usp=sharing). 
-* [Some models trained with the D-Fire dataset](https://github.com/pedbrgs/Fire-Detection).
-* For more surveillance videos, request your registration on our environmental monitoring website ["Apaga o Fogo!" (Put out the Fire!)](https://apagaofogo.eco.br/).
+* [D-Fire dataset (only images and labels)](https://1drv.ms/f/c/c0bd25b6b048b01d/EoGlv1-7_ZlGqvKdi1rulI0B0_Tho1F1sHzn_yU8uXFwoQ?e=G8MjXb).
+* [Training, validation and test sets](https://1drv.ms/f/c/c0bd25b6b048b01d/Ema8FFze8mFIlM1Hn81BUUgBSyCe3R8DpI-tN5ZLOOGu5g?e=Vgdlo4).
+* [Some surveillance videos](https://1drv.ms/f/c/c0bd25b6b048b01d/EhT2Jy6L-YlGvZv-gXH2SnYB0XJXbv5dQc1fC4ZvlM2GKg?e=aAkHmt). 
+* [Some deep learning models trained with the D-Fire dataset](https://github.com/pedbrgs/Fire-Detection).
+* For more surveillance videos, request your registration on our environmental monitoring platform ["Apaga o Fogo!" (Put out the Fire!)](https://apagaofogo.eco.br/).
 
-## Citation
+### Citation
 
 Please cite the following paper if you use our image database:
 
