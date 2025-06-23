@@ -50,9 +50,9 @@ Below are some representative samples from the D-Fire dataset showcasing differe
 
 Access the D-Fire dataset, including images, annotations, and pre-split training, validation, and test sets via the following links. Additional resources such as surveillance videos and trained models are also available to support your research.
 
-* [D-Fire dataset (only images and labels)](https://1drv.ms/f/c/c0bd25b6b048b01d/EoGlv1-7_ZlGqvKdi1rulI0B0_Tho1F1sHzn_yU8uXFwoQ?e=G8MjXb).
-* [Training, validation and test sets](https://1drv.ms/f/c/c0bd25b6b048b01d/Ema8FFze8mFIlM1Hn81BUUgBSyCe3R8DpI-tN5ZLOOGu5g?e=Vgdlo4).
-* [Some surveillance videos](https://1drv.ms/f/c/c0bd25b6b048b01d/EhT2Jy6L-YlGvZv-gXH2SnYB0XJXbv5dQc1fC4ZvlM2GKg?e=aAkHmt). 
+* [D-Fire dataset (only images and labels)](https://1drv.ms/u/c/c0bd25b6b048b01d/EbLgD7bES4FDvUN37Grxn8QBF5gIBBc7YV2qklF08GCiBw).
+* [Training, validation and test sets](https://1drv.ms/f/c/c0bd25b6b048b01d/Ema8FFze8mFIlM1Hn81BUUgBE3vnnmK4SQxybS-nHRt2pA?e=6rk0aN).
+* [Some surveillance videos](https://1drv.ms/f/c/c0bd25b6b048b01d/EhT2Jy6L-YlGvZv-gXH2SnYBENQsnUW96LpZtv_6PngjYQ). 
 * [Some deep learning models trained with the D-Fire dataset](https://github.com/pedbrgs/Fire-Detection).
 * For more surveillance videos, request your registration on our environmental monitoring platform ["Apaga o Fogo!" (Put out the Fire!)](https://apagaofogo.eco.br/).
 
